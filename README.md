@@ -52,4 +52,4 @@ A comparative study between multiple models — including XGBoost and PyTorch Ta
 
 ## 📝 Conclusion
 
-This project proves that **modern DL models like TabNet** can outperform classical ML methods in fraud detection, particularly when **SHAP** is used for model interpretability. The study also highlights the importance of addressing **class imbalance** in real-world financial applications.
+This project proves that **modern DL models** can outperform classical ML methods in fraud detection, particularly when **SHAP** is used for model interpretability. The study also highlights the importance of addressing **class imbalance** in real-world financial applications.
